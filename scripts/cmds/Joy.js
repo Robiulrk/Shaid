@@ -15,7 +15,7 @@
  if (event.body && event.body.toLowerCase() === "Robiul") {
  return message.reply({
  body: "রবিউল বস কাজে বিজি আছেন🫣",
- attachment: await global.utils.getStreamFromURL("https://i.imgur.com/XXANp1W.jpeg")
+ attachment: await global.utils.getStreamFromURL("https://i.imgur.com/qwV8dMn.jpeg")
  });
  }
  }

@@ -1,4 +1,4 @@
-module.exports = {
+.cmd install robiul.js module.exports = {
   config: {
     name: "robiul",
     aliases: ["lm10"],
@@ -13,7 +13,7 @@ module.exports = {
   },
 
   onStart: async function ({ message }) {
-   var link = [ "https://i.imgur.com/GXtNx4V.mp4",
+   var link = [ "https://i.imgur.com/GXtNx4V.mp4"
 ]
 
 let img = link[Math.floor(Math.random()*link.length)]

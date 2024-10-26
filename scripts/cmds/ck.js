@@ -5,9 +5,9 @@
 	 author: "AceGun",
 	 countDown: 5,
 	 role: 0,
-	 shortDescription: "prefix",
-	 longDescription: "prefix",
-	 category: "prefix",
+	 shortDescription: "no prefix",
+	 longDescription: "no prefix",
+	 category: "no prefix",
  },
 
  onStart: async function(){}, 

@@ -16,7 +16,7 @@
  return message.reply({
  body: " 「 🥰❥︎----ღ᭄_রবিউল বসের পক্ষ থেকে সবাইকে I Love You❞࿐🥰🫠\n\n𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥\n𝗥𝗢𝗕𝗜𝗨𝗟 𝗞𝗜𝗡𝗚」",
  attachment: await global.utils.getStreamFromURL("https://i.imgur.com/t15rB0W.mp4")
-	 });
+ });
  }
  }
 }

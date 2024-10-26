@@ -1,9 +1,9 @@
 module.exports = {
   config: {
-    name: "efa",
+    name: "robiul",
     aliases: ["lm10"],
     version: "1.0",
-    author: "Otineyyyy your dadddy👾😉",
+    author: "Otineyyyy your dadddy😉",
     countDown: 5,
     role: 0,
     shortDescription: "send you pic of messi",

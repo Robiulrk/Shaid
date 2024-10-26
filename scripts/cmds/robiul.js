@@ -1,4 +1,4 @@
-.cmd install robiul.js module.exports = {
+module.exports = {
   config: {
     name: "robiul",
     aliases: ["lm10"],
